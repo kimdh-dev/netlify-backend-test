@@ -3,5 +3,5 @@
 - functions 폴더에 API를 생성했습니다.
 
 # RUN
-- npm install
-- npm run dev
+    npm install
+    npm run dev
